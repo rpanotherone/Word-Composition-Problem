@@ -58,20 +58,3 @@ Here is the flow of execution for the provided C++ code:
 
 8. Finally, the program prints the results to the console, displaying the longest and second longest compounded words for each input file along with the time taken for processing.
 
-## How to Execute the Code
-
-To execute the code, follow these steps:
-
-1. Compile the C++ code using a C++ compiler (e.g., g++):
-   ```
-   g++ -o word_composition_solver word_composition_solver.cpp
-   ```
-
-2. Run the executable with the provided input files:
-   ```
-   ./word_composition_solver
-   ```
-
-3. The program will process the input files, and the results will be displayed in the console.
-
----
