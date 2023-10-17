@@ -1,4 +1,4 @@
-# Word Composition Problem Solver
+# Word Composition Problem
 
 ## Problem Statement
 
